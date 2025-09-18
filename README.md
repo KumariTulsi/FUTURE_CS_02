@@ -65,5 +65,6 @@ This task provided **hands-on SOC experience**:
 
 ---
 
-👩‍💻 **Author**: Kumari Tulsi  
-📌 Internship Program: Future Interns Cybersecurity Internship  
+👩‍💻 **Author**: Kumari Tulsi 
+📌 CIN Number: FIT/SEP25/CS3691
+💼 Internship Program: Future Interns Cybersecurity Internship  
